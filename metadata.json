@@ -1,0 +1,8 @@
+{
+  "name": "Cafe Nova | Akluj",
+  "description": "Premium Family Café & Signature Pav Bhaji - Artisanal coffee, gourmet food, signature dishes, and birthday celebration packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
